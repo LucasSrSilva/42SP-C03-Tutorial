@@ -1,4 +1,3 @@
-# 42SP-C03-Tutorial
 # C03 - Tutorial de Exercícios da 42
 
 Este documento apresenta um guia detalhado para a implementação das funções do projeto C03 da 42. Aqui, cada função deve ser criada de forma idêntica às originais da biblioteca padrão do C, respeitando os protótipos abaixo (incluindo tabulações e espaçamentos). Cada seção a seguir traz explicações simples e exemplos de uso.
