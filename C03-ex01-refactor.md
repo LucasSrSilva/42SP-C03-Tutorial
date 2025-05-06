@@ -5,8 +5,8 @@
 ## **Problemas na Versão Original**
 1. Acesso desnecessário a `s1[i]` e `s2[i]` duas vezes (no `while` e no `return`).  
 2. Comparação `i < n` em cada iteração, o que pode ser ligeiramente mais lento.  
-3. Conversão para `unsigned char` no final, que poderia ser feita antecipadamente.  
-
+3. Conversão para `unsigned char` no final, que poderia ser feita antecipadamente.
+   
 ## **Versão Otimizada**
 ```c
 int ft_strncmp(char *s1, char *s2, unsigned int n)
